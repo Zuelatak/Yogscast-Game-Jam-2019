@@ -55,19 +55,19 @@
             }
         },
         {
-            "Key": "0779e45f-e330-40de-be4b-70565f95d64f",
-            "Value": {
-                "id": "b434bf77-9a92-4b22-b3ef-4972147cadec",
-                "resourcePath": "rooms\\rm_workshop3\\rm_workshop3.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
             "Value": {
                 "id": "f59c55bd-ea0f-46af-854a-1ae377ab95b0",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "11aacfdd-a589-4887-a8b0-0762e5e052f2",
+            "Value": {
+                "id": "c764267c-d109-4b0b-bd2c-d795c3d1ae09",
+                "resourcePath": "sprites\\spr_workshop\\spr_workshop.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -84,14 +84,6 @@
                 "id": "100ef4ec-def8-43e1-a68e-00838a79b3ee",
                 "resourcePath": "views\\1da94f5e-4095-408b-96a0-e08fa5e3bc52.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "25bbf3fa-67b2-4384-b638-ccb79e3dbf0e",
-            "Value": {
-                "id": "01191ff8-449a-45c4-9559-27e546be7e62",
-                "resourcePath": "sprites\\FloorTile\\FloorTile.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,14 +111,6 @@
             }
         },
         {
-            "Key": "446c64e0-5959-42c2-b958-6e918219fbb5",
-            "Value": {
-                "id": "ee4477d2-902d-4958-ab1f-ddcddb1c2a8e",
-                "resourcePath": "rooms\\rm_workshop2\\rm_workshop2.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "48e0af1c-ea86-4453-9590-3859f6997c44",
             "Value": {
                 "id": "e197d7b2-f833-40c5-b859-947ab42e6b10",
@@ -148,6 +132,14 @@
                 "id": "d04a0d3a-f7b3-4297-99ee-f7c382d8ec66",
                 "resourcePath": "views\\55ab7303-800f-45e1-b441-382b3f2bca58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5aa2b444-b332-4c30-a209-685c234ad4d3",
+            "Value": {
+                "id": "bf0f92e2-75a7-4b66-ae34-4e39d3f1c3ba",
+                "resourcePath": "rooms\\rm_workshop2\\rm_workshop2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -223,14 +215,6 @@
             }
         },
         {
-            "Key": "9e6bbb9e-4f06-45ab-a3f7-bed6f06d82c5",
-            "Value": {
-                "id": "038cf08f-1644-4197-910a-c3213751fd83",
-                "resourcePath": "rooms\\rm_workshop1\\rm_workshop1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "a15fd2a8-1376-4ea0-b9ba-8f10a3aad379",
             "Value": {
                 "id": "6c50bd79-5389-427b-9c62-2a14b8ddc217",
@@ -292,6 +276,30 @@
                 "id": "607335f1-289f-4b32-bf6d-59c742cd4979",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d4ec7a28-701a-4213-86e4-71ef3f99fd4d",
+            "Value": {
+                "id": "e4372b4a-b4a3-4b15-897f-517c4f8627be",
+                "resourcePath": "tilesets\\ts_workshop\\ts_workshop.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "e1598830-725c-4619-beea-f500420b41f8",
+            "Value": {
+                "id": "5a9f029c-0fd5-4c36-ac10-535d8df44c5f",
+                "resourcePath": "rooms\\rm_workshop1\\rm_workshop1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e359aa77-c375-44e0-adcd-5fc7c979d7e1",
+            "Value": {
+                "id": "949710ae-26a7-406b-9531-27f3a3cba74f",
+                "resourcePath": "rooms\\rm_workshop3\\rm_workshop3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
