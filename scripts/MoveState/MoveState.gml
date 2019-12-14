@@ -2,8 +2,8 @@
 // Get Direction
 dir = point_direction(0, 0, xaxis, yaxis);
 
-show_debug_message("XAXIS = " + string(xaxis));
-show_debug_message("YAXIS = " + string(yaxis));
+//show_debug_message("XAXIS = " + string(xaxis));
+//show_debug_message("YAXIS = " + string(yaxis));
 
 // Get Length
 if(xaxis == 0 && yaxis == 0)

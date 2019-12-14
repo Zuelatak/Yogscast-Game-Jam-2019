@@ -2,7 +2,7 @@
     "id": "62cbe23b-6186-4cb6-bbff-eefc880d4606",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_roomGenerator",
+    "name": "obj_workshopGenerator",
     "eventList": [
         {
             "id": "09d4fb0a-7964-4b88-9b3e-f99d1171e3aa",
@@ -31,7 +31,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "93ee5c81-6397-4283-b188-9e6332662f9c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "mapSize",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
