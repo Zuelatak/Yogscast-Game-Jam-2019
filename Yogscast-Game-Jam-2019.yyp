@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "d6151260-75a5-4acc-a5d7-9797bc249cf2",
+            "Value": {
+                "id": "5c8f6463-dac8-432d-a958-a29043491d60",
+                "resourcePath": "sprites\\spr_reindeerBag\\spr_reindeerBag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dbbea6a1-2307-4431-b7eb-366d3de0523f",
             "Value": {
                 "id": "c66f62e6-ef09-431e-9f01-53dbedefd283",
