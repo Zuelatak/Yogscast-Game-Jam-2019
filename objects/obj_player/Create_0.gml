@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-spd = 2.5;
+spd = 3.5;
 horspeed = 0;
 verspeed = 0;
 dir = 0;
