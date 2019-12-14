@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "1f2a8f03-d264-4cbe-934e-cb78ddd4d47c",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "82ef2a8f-eca8-429d-bdba-d4e5e408203d",
             "Value": {
                 "id": "ca81c1da-616c-41f2-91e3-eb594d8f6b0e",
@@ -228,6 +236,14 @@
                 "id": "3ad98189-4898-4ce4-8200-eb27b762146a",
                 "resourcePath": "sprites\\spr_clear\\spr_clear.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "71916e51-f794-40e7-a4b6-9bc4d4b31d26",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "dbbea6a1-2307-4431-b7eb-366d3de0523f",
+            "Value": {
+                "id": "c66f62e6-ef09-431e-9f01-53dbedefd283",
+                "resourcePath": "sprites\\spr_reindeerCharge\\spr_reindeerCharge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e1598830-725c-4619-beea-f500420b41f8",
             "Value": {
                 "id": "5a9f029c-0fd5-4c36-ac10-535d8df44c5f",
@@ -316,6 +340,22 @@
                 "id": "1afc8b61-999f-402e-91d2-3593d0f2e5d0",
                 "resourcePath": "objects\\obj_playerCollider\\obj_playerCollider.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "b542b727-1b98-496e-aa2a-d269cc0b8ca6",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fc572c54-cbff-4a30-b182-5730cb340b2e",
+            "Value": {
+                "id": "4ccd38cb-4019-49c4-b507-3d7df0dcff1f",
+                "resourcePath": "sprites\\spr_reindeerbow\\spr_reindeerbow.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
