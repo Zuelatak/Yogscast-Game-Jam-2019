@@ -58,7 +58,7 @@
             "Key": "132bece3-d64e-44ea-a76a-406b8c7bdd50",
             "Value": {
                 "id": "67dc2459-a1e6-42f9-983b-af7bf470ea2f",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_title\\rm_title.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "100ef4ec-def8-43e1-a68e-00838a79b3ee",
                 "resourcePath": "views\\1da94f5e-4095-408b-96a0-e08fa5e3bc52.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "25bbf3fa-67b2-4384-b638-ccb79e3dbf0e",
+            "Value": {
+                "id": "01191ff8-449a-45c4-9559-27e546be7e62",
+                "resourcePath": "sprites\\FloorTile\\FloorTile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -116,6 +124,14 @@
                 "id": "d04a0d3a-f7b3-4297-99ee-f7c382d8ec66",
                 "resourcePath": "views\\55ab7303-800f-45e1-b441-382b3f2bca58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62cbe23b-6186-4cb6-bbff-eefc880d4606",
+            "Value": {
+                "id": "0f1e2b23-df71-41dd-92fc-241757356788",
+                "resourcePath": "objects\\obj_roomGenerator\\obj_roomGenerator.yy",
+                "resourceType": "GMObject"
             }
         },
         {
