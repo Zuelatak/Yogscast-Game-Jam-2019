@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "99a096a6-09e9-4c1c-9d3e-dc94b2087c8d",
+            "Value": {
+                "id": "b0c05e04-6389-4f56-b8c2-f59c9f0fe00d",
+                "resourcePath": "sprites\\spr_reindeer\\spr_reindeer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "99d6e4f2-40fd-4ffa-b5e6-649310e69451",
             "Value": {
                 "id": "3835112c-396c-479f-affb-c10af78e18c7",
