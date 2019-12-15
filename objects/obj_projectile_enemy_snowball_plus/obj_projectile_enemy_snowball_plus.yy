@@ -1,28 +1,38 @@
 {
-    "id": "cc90fd06-19d0-421d-9722-faa15934cb6d",
+    "id": "13a3a99d-38a5-4aee-ac75-e0188452cfc6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_throw2",
+    "name": "obj_projectile_enemy_snowball_plus",
     "eventList": [
         {
-            "id": "aa9be12f-8abb-4f8b-8b8f-e3544ddbf56f",
+            "id": "7ad70e19-0c1d-49e3-bc38-25dc1e4ac368",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "13a3a99d-38a5-4aee-ac75-e0188452cfc6"
+        },
+        {
+            "id": "a977f216-e61e-4cba-a1dc-6497cff8aadc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "cc90fd06-19d0-421d-9722-faa15934cb6d"
+            "m_owner": "13a3a99d-38a5-4aee-ac75-e0188452cfc6"
         },
         {
-            "id": "59334814-12f8-4d58-b8fc-a0a7ccdfa951",
+            "id": "e5a62e8f-0589-4d3f-869a-e41903fff9d6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 2,
-            "m_owner": "cc90fd06-19d0-421d-9722-faa15934cb6d"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "13a3a99d-38a5-4aee-ac75-e0188452cfc6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "196fbf2e-8bbc-443e-84c7-a36fecd31cbd",
+            "id": "ea3b28be-d668-49f5-b2e9-d229799d795d",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +62,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1000",
-            "varName": "aggro",
+            "value": "1",
+            "varName": "damage",
             "varType": 0
         },
         {
-            "id": "83e1dd52-092c-4419-ae37-cda0e3fce9ab",
+            "id": "8aac3082-069d-4385-ae56-0cb99c488a6c",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -66,12 +76,26 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "3",
-            "varName": "health",
+            "value": "12",
+            "varName": "movespeed",
+            "varType": 0
+        },
+        {
+            "id": "5bdad606-902b-4265-8530-51cd6c451b0b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "movedirection",
             "varType": 0
         }
     ],
-    "solid": true,
-    "spriteId": "2e9decb6-8f7c-450a-ad29-002310a2317c",
+    "solid": false,
+    "spriteId": "be599e77-dd12-4372-92ce-b07b643f1e0f",
     "visible": true
 }

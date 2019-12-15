@@ -1,28 +1,38 @@
 {
-    "id": "3898f8a8-51b3-410b-ae23-11fa92e5f058",
+    "id": "d6854f13-8c6a-4e6c-9a25-925cdf4e99d1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_throw",
+    "name": "obj_projectile_enemy_snowball_direct",
     "eventList": [
         {
-            "id": "4c4166ec-8766-470d-8688-ae5eb0d4ef7b",
+            "id": "deee4b30-b955-431c-b7e5-d416f700ca7e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "d6854f13-8c6a-4e6c-9a25-925cdf4e99d1"
+        },
+        {
+            "id": "297c2de6-5ab9-4302-a223-8f373e4a99cb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "3898f8a8-51b3-410b-ae23-11fa92e5f058"
+            "m_owner": "d6854f13-8c6a-4e6c-9a25-925cdf4e99d1"
         },
         {
-            "id": "b574e747-de29-4556-a30c-eb28bc50eb7c",
+            "id": "34dd6a41-77bb-4cc4-86a2-3e081bed95aa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 5,
-            "eventtype": 2,
-            "m_owner": "3898f8a8-51b3-410b-ae23-11fa92e5f058"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "d6854f13-8c6a-4e6c-9a25-925cdf4e99d1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "3bf2ad6e-0e70-4c35-bb21-fbe154e3ed62",
+            "id": "a030107f-10be-41fb-a628-00f8f02b76c1",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +62,26 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "2",
-            "varName": "health",
+            "value": "1",
+            "varName": "damage",
+            "varType": 0
+        },
+        {
+            "id": "465da339-6e5d-4931-9aad-0bdcbdfcc378",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "12",
+            "varName": "movespeed",
             "varType": 0
         }
     ],
-    "solid": true,
-    "spriteId": "a8f7baa5-4f53-43c7-90a9-69cfaae509c7",
+    "solid": false,
+    "spriteId": "be599e77-dd12-4372-92ce-b07b643f1e0f",
     "visible": true
 }

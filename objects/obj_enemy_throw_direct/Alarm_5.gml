@@ -6,5 +6,5 @@
 //y = ystart+20;
 //}
 
-instance_create_layer(x+20, y+20, "Instances", obj_projectile_coal_direct);
+instance_create_layer(x+20, y+20, "Instances", obj_projectile_enemy_snowball_direct);
 alarm[5]=50;

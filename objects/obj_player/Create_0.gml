@@ -1,4 +1,4 @@
-__dnd_health = real(5);
+//__dnd_health = real(5);
 
 /// @description Insert description here
 // You can write your code in this editor
