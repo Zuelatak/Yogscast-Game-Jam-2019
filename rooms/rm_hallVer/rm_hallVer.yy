@@ -1,6 +1,6 @@
 
 {
-    "name": "rm_twoWayVertical",
+    "name": "rm_hallVer",
     "id": "9e0b5e33-149c-47e5-b343-30b5f6c23f2a",
     "creationCodeFile": "",
     "inheritCode": false,

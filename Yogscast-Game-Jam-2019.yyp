@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "603e5ba7-43c2-4e99-9fde-8850b1fe75a6",
-            "Value": {
-                "id": "ceb8581e-df2f-4891-8a4c-7130b679eb77",
-                "resourcePath": "rooms\\rm_twoWayHorizontal\\rm_twoWayHorizontal.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "610f508b-746a-429c-8d40-4dec4365cca2",
             "Value": {
                 "id": "dfb97853-51f6-40db-93a9-d1b86249247f",
@@ -331,6 +323,22 @@
             "Value": {
                 "id": "a917b384-20db-4179-a7c6-acd59757cc6e",
                 "resourcePath": "rooms\\rm_controls\\rm_controls.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "70a85a34-6994-4daa-bb76-5ab4226686d8",
+            "Value": {
+                "id": "68c01929-ecc8-4ef5-bf78-813289f78d9e",
+                "resourcePath": "rooms\\rm_entrance\\rm_entrance.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "71bd83da-5f66-4f88-a9f4-7f324ab5f687",
+            "Value": {
+                "id": "900f57a1-e66d-4a55-a19c-57aa05a2160f",
+                "resourcePath": "rooms\\rm_hallHor\\rm_hallHor.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -426,7 +434,7 @@
             "Key": "9e0b5e33-149c-47e5-b343-30b5f6c23f2a",
             "Value": {
                 "id": "a96da813-5388-4355-93a7-04f77ff4e5f4",
-                "resourcePath": "rooms\\rm_twoWayVertical\\rm_twoWayVertical.yy",
+                "resourcePath": "rooms\\rm_hallVer\\rm_hallVer.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -500,14 +508,6 @@
                 "id": "84bc540e-da9f-407f-9c57-cf5f68abbe87",
                 "resourcePath": "sprites\\spr_controlButton\\spr_controlButton.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b6633d32-2565-4f03-822f-56a69ae133c1",
-            "Value": {
-                "id": "6ad9e594-5dd0-4790-b24d-2b05745c2364",
-                "resourcePath": "rooms\\rm_entrance\\rm_entrance.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
