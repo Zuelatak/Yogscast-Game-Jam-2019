@@ -178,7 +178,7 @@
             "Key": "3898f8a8-51b3-410b-ae23-11fa92e5f058",
             "Value": {
                 "id": "fd024f15-4c1a-48af-a6a1-773c023d81ef",
-                "resourcePath": "objects\\obj_enemy_throw\\obj_enemy_throw.yy",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -548,14 +548,6 @@
                 "id": "368a22dc-c4c8-4869-8b4d-189a9680bc68",
                 "resourcePath": "views\\c78fbbbc-10ea-4189-988b-32bac26a6988.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "cc90fd06-19d0-421d-9722-faa15934cb6d",
-            "Value": {
-                "id": "6474da8f-4eac-414e-863f-c262a20987fd",
-                "resourcePath": "objects\\obj_enemy_throw2\\obj_enemy_throw2.yy",
-                "resourceType": "GMObject"
             }
         },
         {
