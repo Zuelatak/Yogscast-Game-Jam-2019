@@ -6,6 +6,8 @@ if(fadeDone)
 	randomize()
 
 	mapSize = 5
+	global.currentRoomX = mapSize/2
+	global.currentRoomY = 5
 	for(i = 0; i < mapSize; i++)
 	{
 		for(j = 0; j < mapSize; j++)
