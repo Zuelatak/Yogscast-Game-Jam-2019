@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "58d2d752-ffec-4825-938d-42a97b3ab846",
+            "Value": {
+                "id": "f9a8f530-5b57-41df-a395-bfa41234c8f6",
+                "resourcePath": "objects\\obj_credits\\obj_credits.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5aa2b444-b332-4c30-a209-685c234ad4d3",
             "Value": {
                 "id": "bf0f92e2-75a7-4b66-ae34-4e39d3f1c3ba",
