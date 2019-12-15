@@ -1,28 +1,28 @@
 {
-    "id": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
+    "id": "d138bde0-9f92-4001-a274-1a311f486eb9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_projectile_coal_direct",
     "eventList": [
         {
-            "id": "2e97fed3-a4dd-47ed-a83b-aa7a010663e4",
+            "id": "bd7e72e6-3201-4a6d-8447-75e0b47e5a5a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0c93310a-9c79-4121-a9d6-f1e16d1df264"
+            "m_owner": "d138bde0-9f92-4001-a274-1a311f486eb9"
         },
         {
-            "id": "1bdc4851-b5de-4ee4-9103-624a858bd76f",
+            "id": "90c8823f-cff3-4103-9c35-4d05ef49f489",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "0c93310a-9c79-4121-a9d6-f1e16d1df264"
+            "m_owner": "d138bde0-9f92-4001-a274-1a311f486eb9"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "9796741e-fdf5-4700-8a8f-4d055a6ce90c",
+            "id": "e0b376ab-6fb8-4239-bb6f-491166b69aa8",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +52,26 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
-            "varName": "playerhealth",
+            "value": "1",
+            "varName": "damage",
+            "varType": 0
+        },
+        {
+            "id": "d0ebf476-759a-4c8b-a352-2a61e413e94e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "12",
+            "varName": "movespeed",
             "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "99d6e4f2-40fd-4ffa-b5e6-649310e69451",
+    "spriteId": "fd685171-b040-48e9-948a-cb8e185df1a5",
     "visible": true
 }
