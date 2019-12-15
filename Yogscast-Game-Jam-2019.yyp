@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "09a53da4-50db-48ca-ba45-194af6c75bcf",
+            "Value": {
+                "id": "d69c7a3a-7704-4861-9613-3965c9136cc6",
+                "resourcePath": "rooms\\rm_bossTop\\rm_bossTop.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
             "Value": {
                 "id": "f59c55bd-ea0f-46af-854a-1ae377ab95b0",
@@ -111,19 +119,19 @@
             }
         },
         {
-            "Key": "1c10381e-aed6-495c-9402-49bc806b5f14",
-            "Value": {
-                "id": "4b64f440-79a3-4341-8409-cb1967f0d25c",
-                "resourcePath": "rooms\\rm_twoWayLeft\\rm_twoWayLeft.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "1b8e1b6f-bf32-490a-a025-cc2f8611cfdb",
             "Value": {
                 "id": "c9c88b1c-aa80-414a-acec-ecaf898fcb5d",
                 "resourcePath": "sprites\\Blue_Light\\Blue_Light.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c10381e-aed6-495c-9402-49bc806b5f14",
+            "Value": {
+                "id": "4b64f440-79a3-4341-8409-cb1967f0d25c",
+                "resourcePath": "rooms\\rm_twoWayLeft\\rm_twoWayLeft.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -599,6 +607,14 @@
             }
         },
         {
+            "Key": "b42ff2dc-3dcc-4f22-8c28-0534945df3ef",
+            "Value": {
+                "id": "3f6a1d91-1ca3-41b3-806b-5210b34f310d",
+                "resourcePath": "rooms\\rm_bossRight\\rm_bossRight.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b690e0a7-fee7-41cd-9adb-a72c69eccbf4",
             "Value": {
                 "id": "65556eab-f048-4d11-9b59-0b59aa99339e",
@@ -668,6 +684,14 @@
                 "id": "4375e08b-28aa-4686-9a50-85afcc2e659b",
                 "resourcePath": "views\\c55e091c-d825-4d78-bbb3-b37f3b9b6ebd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c65cc3ad-b69f-4c32-b4f9-783e9bd2ea18",
+            "Value": {
+                "id": "b00c240c-abf5-457b-a642-9051d8f9886b",
+                "resourcePath": "rooms\\rm_bossLeft\\rm_bossLeft.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -780,6 +804,14 @@
                 "id": "cde7d1da-4093-44cd-a9a4-eb2a7cedc965",
                 "resourcePath": "sprites\\spr_reindeerChargeBagRight\\spr_reindeerChargeBagRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e0fd39c7-e2c8-43f2-86d0-69139c754ec7",
+            "Value": {
+                "id": "d292e9bd-479b-47c7-b026-d1ecab702708",
+                "resourcePath": "rooms\\rm_bossBottom\\rm_bossBottom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
