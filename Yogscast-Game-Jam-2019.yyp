@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "315c31f7-1c83-4696-85f8-6aef5c41a719",
+            "Value": {
+                "id": "7917296e-b01b-4fbf-8ff9-2ea224276ef4",
+                "resourcePath": "sprites\\spr_reindeerChargeBag\\spr_reindeerChargeBag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3898f8a8-51b3-410b-ae23-11fa92e5f058",
             "Value": {
                 "id": "fd024f15-4c1a-48af-a6a1-773c023d81ef",
