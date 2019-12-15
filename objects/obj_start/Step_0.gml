@@ -7,11 +7,11 @@ if(fadeDone)
 
 	mapSize = 5
 	global.mapSize = mapSize
-	firstRoom = global.workshopChoices[irandom(array_length_1d(global.workshopChoices)-1)]
+	firstRoom = global.workshopChoices[10]
 	firstRoom = firstRoom[? "roomFile"]
 
 	global.currentRoomX = floor(mapSize/2)
-	global.currentRoomY = floor(mapSize/2)
+	global.currentRoomY = mapSize
 	for(i = 0; i < mapSize; i++)
 	{
 		for(j = 0; j < mapSize; j++)

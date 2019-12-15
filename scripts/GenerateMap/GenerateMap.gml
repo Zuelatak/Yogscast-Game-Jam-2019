@@ -68,6 +68,11 @@ for(i = 0; i < 20; i++)
 	break
 }
 
+if(roomX == 5 || roomY == 5)
+{
+	return
+}
+
 global.gameMap[roomX, roomY] = grabbedRoom
 
 if(roomY != 0 && global.gameMap[roomX, roomY - 1] == 0)
