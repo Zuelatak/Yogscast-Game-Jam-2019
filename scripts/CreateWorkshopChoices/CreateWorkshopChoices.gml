@@ -108,7 +108,7 @@ hallHor[? "topDoor"] = false
 hallHor[? "bottomDoor"] = false
 hallHor[? "leftDoor"] = true
 hallHor[? "rightDoor"] = true
-global.workshopChoices[12] = hallHor
+global.workshopChoices[13] = hallHor
 
 hallVer = ds_map_create()
 hallVer[? "roomFile"] = rm_hallVer
@@ -116,4 +116,4 @@ hallVer[? "topDoor"] = true
 hallVer[? "bottomDoor"] = true
 hallVer[? "leftDoor"] = false
 hallVer[? "rightDoor"] = false
-global.workshopChoices[12] = hallVer
+global.workshopChoices[14] = hallVer
