@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "069ba5c6-d79d-4f7d-8622-91e57127cf76",
+            "Value": {
+                "id": "c01b9356-1a13-47f1-92c2-9b92984b3d01",
+                "resourcePath": "sprites\\startbuttonpressed\\startbuttonpressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
             "Value": {
                 "id": "f59c55bd-ea0f-46af-854a-1ae377ab95b0",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0f27c0b0-0e43-406f-b70a-08e02e53ace5",
+            "Value": {
+                "id": "779ddee7-4282-450c-ba7b-20220ba47961",
+                "resourcePath": "sprites\\controlpressed\\controlpressed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -111,6 +127,14 @@
             }
         },
         {
+            "Key": "3d1b5ba4-e110-4b20-8fff-5729b0a31763",
+            "Value": {
+                "id": "4f9ead46-829c-4cdd-b1fb-f8e67fef6cbb",
+                "resourcePath": "sprites\\Quitbuttonhover\\Quitbuttonhover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f1ec13e-ab84-49a6-9c62-fe9d2a2d1782",
             "Value": {
                 "id": "c272aa7f-c474-439e-84e2-cb023426bf0a",
@@ -140,6 +164,22 @@
                 "id": "579625a9-3013-40b2-b631-14dd907755aa",
                 "resourcePath": "views\\4bf76d1a-5618-41cc-b065-1275a29503c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "50768713-2e91-4a3c-b171-34833084c11e",
+            "Value": {
+                "id": "89576282-8a05-40f5-838f-e1e21546dc21",
+                "resourcePath": "sprites\\controlhover\\controlhover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "51ed1bec-32e2-4047-b780-a2a2e9b7bcf4",
+            "Value": {
+                "id": "8f5bc46c-3407-4271-81e2-bf0b70cd5cb9",
+                "resourcePath": "sprites\\Quitbutton\\Quitbutton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,6 +239,14 @@
             }
         },
         {
+            "Key": "770261a3-3dc1-48b8-8be4-9afec920232e",
+            "Value": {
+                "id": "fecd7f72-20a8-42cd-a8bc-943af9222481",
+                "resourcePath": "sprites\\Quitbuttonpressed\\Quitbuttonpressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7fdd2593-68df-43e1-97f5-0e5284ab2592",
             "Value": {
                 "id": "53ba70e5-d4d3-4467-922c-261a04db3be1",
@@ -220,6 +268,14 @@
                 "id": "56c4914d-ac53-4fdb-bd72-17f93084de69",
                 "resourcePath": "views\\8ca78862-7112-4723-847f-43068ea7be93.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8d82de60-4786-4e80-bbdc-8af94e0fe8e8",
+            "Value": {
+                "id": "0af37cbb-8425-4698-bbe3-256d6444c111",
+                "resourcePath": "sprites\\startbuttonhover\\startbuttonhover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +332,14 @@
                 "id": "71916e51-f794-40e7-a4b6-9bc4d4b31d26",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b39941ed-e5d4-4259-a056-6ac94a5d8993",
+            "Value": {
+                "id": "84bc540e-da9f-407f-9c57-cf5f68abbe87",
+                "resourcePath": "sprites\\control\\control.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -364,6 +428,14 @@
                 "id": "5a9f029c-0fd5-4c36-ac10-535d8df44c5f",
                 "resourcePath": "rooms\\rm_workshop1\\rm_workshop1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e1caaa65-1062-4ef1-b32b-30542e447e3d",
+            "Value": {
+                "id": "23fb7e98-9360-4d67-9ddd-f154ca6eb798",
+                "resourcePath": "sprites\\startbutton\\startbutton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
