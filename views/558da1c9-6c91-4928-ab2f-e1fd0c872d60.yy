@@ -19,7 +19,11 @@
         "57cdbd28-7f9a-4ee3-be99-c9c8d852ca13",
         "9e0b5e33-149c-47e5-b343-30b5f6c23f2a",
         "71bd83da-5f66-4f88-a9f4-7f324ab5f687",
-        "678f2c9e-3ba7-40a5-8645-7b32d7d0c25f"
+        "678f2c9e-3ba7-40a5-8645-7b32d7d0c25f",
+        "c65cc3ad-b69f-4c32-b4f9-783e9bd2ea18",
+        "09a53da4-50db-48ca-ba45-194af6c75bcf",
+        "b42ff2dc-3dcc-4f22-8c28-0534945df3ef",
+        "e0fd39c7-e2c8-43f2-86d0-69139c754ec7"
     ],
     "filterType": "GMRoom",
     "folderName": "Workshop",
