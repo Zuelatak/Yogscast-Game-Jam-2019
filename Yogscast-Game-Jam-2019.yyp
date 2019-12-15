@@ -74,7 +74,7 @@
             "Key": "0f27c0b0-0e43-406f-b70a-08e02e53ace5",
             "Value": {
                 "id": "779ddee7-4282-450c-ba7b-20220ba47961",
-                "resourcePath": "sprites\\spr_controlButtonHovered\\spr_controlButtonHovered.yy",
+                "resourcePath": "sprites\\spr_controlButtonPressed\\spr_controlButtonPressed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -103,6 +103,22 @@
             }
         },
         {
+            "Key": "2162e9ab-a8c4-4bd7-be98-3caca2638cec",
+            "Value": {
+                "id": "d74beb82-4038-4de0-b004-a40229353f7d",
+                "resourcePath": "sprites\\spr_fade\\spr_fade.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27504f72-9c1d-4821-adf2-d0ab6a8a518d",
+            "Value": {
+                "id": "61bd25f2-a8e0-4759-8ec0-8b3da7dd2ffb",
+                "resourcePath": "sprites\\spr_arrowPressed\\spr_arrowPressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2f2fc3bf-8f8b-4066-8070-fdb9c23b9118",
             "Value": {
                 "id": "c24774c1-9d5d-4d78-be06-2a877c08d151",
@@ -122,7 +138,7 @@
             "Key": "32dc819b-11b9-4e8f-922d-482875da0646",
             "Value": {
                 "id": "af0c78a7-3696-4f78-958e-08af616187cd",
-                "resourcePath": "objects\\obj_exit\\obj_exit.yy",
+                "resourcePath": "objects\\obj_quit\\obj_quit.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -178,7 +194,7 @@
             "Key": "50768713-2e91-4a3c-b171-34833084c11e",
             "Value": {
                 "id": "89576282-8a05-40f5-838f-e1e21546dc21",
-                "resourcePath": "sprites\\spr_controlButtonPressed\\spr_controlButtonPressed.yy",
+                "resourcePath": "sprites\\spr_controlButtonHovered\\spr_controlButtonHovered.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,14 +231,6 @@
             }
         },
         {
-            "Key": "62cbe23b-6186-4cb6-bbff-eefc880d4606",
-            "Value": {
-                "id": "0f1e2b23-df71-41dd-92fc-241757356788",
-                "resourcePath": "objects\\obj_workshopGenerator\\obj_workshopGenerator.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "67191c16-6819-40d7-b807-6ba93978eabe",
             "Value": {
                 "id": "1a5911a7-6ed9-46a5-b0ad-da3deef49636",
@@ -244,6 +252,14 @@
                 "id": "ea7502c6-b0f2-4594-8a46-39a87715031d",
                 "resourcePath": "scripts\\CreateCollision\\CreateCollision.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "69f33ca2-dca0-44b1-876a-b95685aee2e5",
+            "Value": {
+                "id": "20d5c691-cef9-432d-91e1-66baf36ba33c",
+                "resourcePath": "sprites\\spr_arrow\\spr_arrow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -298,7 +314,7 @@
             "Key": "8d82de60-4786-4e80-bbdc-8af94e0fe8e8",
             "Value": {
                 "id": "0af37cbb-8425-4698-bbe3-256d6444c111",
-                "resourcePath": "sprites\\spr_startButtonHover\\spr_startButtonHover.yy",
+                "resourcePath": "sprites\\spr_startButtonHovered\\spr_startButtonHovered.yy",
                 "resourceType": "GMSprite"
             }
         },
