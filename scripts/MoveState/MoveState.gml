@@ -2,6 +2,8 @@
 // Get Direction
 dir = point_direction(0, 0, xaxis, yaxis);
 
+playerdirection = dir;
+
 //show_debug_message("XAXIS = " + string(xaxis));
 //show_debug_message("YAXIS = " + string(yaxis));
 

@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "0c93310a-9c79-4121-a9d6-f1e16d1df264"
+        },
+        {
+            "id": "8d09c93f-6721-4029-a3c8-54791528fd53",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 9,
+            "eventtype": 2,
+            "m_owner": "0c93310a-9c79-4121-a9d6-f1e16d1df264"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,7 +51,78 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "9796741e-fdf5-4700-8a8f-4d055a6ce90c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "playerhealth",
+            "varType": 0
+        },
+        {
+            "id": "f1f1468b-4287-4e08-9410-3361c4982568",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "playerdirection",
+            "varType": 0
+        },
+        {
+            "id": "139ee944-5cb2-4d87-b6a0-59a99d302d75",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "6",
+            "varName": "firedelay",
+            "varType": 0
+        },
+        {
+            "id": "35374fcb-92bf-4195-b283-011ffa4f1c02",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "canfire",
+            "varType": 3
+        },
+        {
+            "id": "428b8fdf-ffc8-4ed6-9b6d-e961fac732ab",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "maxhealth",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "99d6e4f2-40fd-4ffa-b5e6-649310e69451",
     "visible": true
