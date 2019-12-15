@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "a34c7b65-b87c-4bb3-bec1-7137aacc2217",
+            "Value": {
+                "id": "623a5011-be34-4ddc-a728-36eaf068a44f",
+                "resourcePath": "sprites\\spr_reindeerbowBag\\spr_reindeerbowBag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "71916e51-f794-40e7-a4b6-9bc4d4b31d26",
