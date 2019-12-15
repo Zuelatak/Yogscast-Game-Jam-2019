@@ -1,28 +1,28 @@
 {
-    "id": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
+    "id": "cc90fd06-19d0-421d-9722-faa15934cb6d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_enemy_throw2",
     "eventList": [
         {
-            "id": "2e97fed3-a4dd-47ed-a83b-aa7a010663e4",
+            "id": "aa9be12f-8abb-4f8b-8b8f-e3544ddbf56f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0c93310a-9c79-4121-a9d6-f1e16d1df264"
+            "m_owner": "cc90fd06-19d0-421d-9722-faa15934cb6d"
         },
         {
-            "id": "1bdc4851-b5de-4ee4-9103-624a858bd76f",
+            "id": "59334814-12f8-4d58-b8fc-a0a7ccdfa951",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "0c93310a-9c79-4121-a9d6-f1e16d1df264"
+            "enumb": 4,
+            "eventtype": 2,
+            "m_owner": "cc90fd06-19d0-421d-9722-faa15934cb6d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "9796741e-fdf5-4700-8a8f-4d055a6ce90c",
+            "id": "196fbf2e-8bbc-443e-84c7-a36fecd31cbd",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,12 +52,26 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
-            "varName": "playerhealth",
+            "value": "1000",
+            "varName": "aggro",
+            "varType": 0
+        },
+        {
+            "id": "83e1dd52-092c-4419-ae37-cda0e3fce9ab",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "health",
             "varType": 0
         }
     ],
-    "solid": false,
-    "spriteId": "99d6e4f2-40fd-4ffa-b5e6-649310e69451",
+    "solid": true,
+    "spriteId": "2e9decb6-8f7c-450a-ad29-002310a2317c",
     "visible": true
 }

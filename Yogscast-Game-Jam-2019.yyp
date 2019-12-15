@@ -58,7 +58,7 @@
             "Key": "132bece3-d64e-44ea-a76a-406b8c7bdd50",
             "Value": {
                 "id": "67dc2459-a1e6-42f9-983b-af7bf470ea2f",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_combat_test\\room_combat_test.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "100ef4ec-def8-43e1-a68e-00838a79b3ee",
                 "resourcePath": "views\\1da94f5e-4095-408b-96a0-e08fa5e3bc52.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2e9decb6-8f7c-450a-ad29-002310a2317c",
+            "Value": {
+                "id": "b2e84a4c-56c1-497a-9788-d0dffa77c5ac",
+                "resourcePath": "sprites\\spr_temp_enemy2\\spr_temp_enemy2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -82,7 +90,15 @@
             "Key": "3898f8a8-51b3-410b-ae23-11fa92e5f058",
             "Value": {
                 "id": "fd024f15-4c1a-48af-a6a1-773c023d81ef",
-                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourcePath": "objects\\obj_enemy_throw\\obj_enemy_throw.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "41c773e4-d09d-4421-ac90-d5ee90d2cfd2",
+            "Value": {
+                "id": "34f1122f-bd8c-4b00-b65e-974a96496239",
+                "resourcePath": "objects\\obj_enemy_moves\\obj_enemy_moves.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -175,6 +191,22 @@
             }
         },
         {
+            "Key": "a4a16f11-3c95-4789-855c-f77d9245ee8f",
+            "Value": {
+                "id": "825ce19a-e88d-4160-a0ee-70fe260543b6",
+                "resourcePath": "objects\\obj_projectile_coal_plus\\obj_projectile_coal_plus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a8f7baa5-4f53-43c7-90a9-69cfaae509c7",
+            "Value": {
+                "id": "cc15bf68-db52-4ddd-ba68-56c6eddbe420",
+                "resourcePath": "sprites\\spr_temp_enemy\\spr_temp_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1acce5c-dbb0-4c68-85b3-7e443635e247",
             "Value": {
                 "id": "cf8f824a-013e-4050-9c57-43d2e123b37e",
@@ -207,11 +239,27 @@
             }
         },
         {
+            "Key": "cc90fd06-19d0-421d-9722-faa15934cb6d",
+            "Value": {
+                "id": "6474da8f-4eac-414e-863f-c262a20987fd",
+                "resourcePath": "objects\\obj_enemy_throw2\\obj_enemy_throw2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "607335f1-289f-4b32-bf6d-59c742cd4979",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d138bde0-9f92-4001-a274-1a311f486eb9",
+            "Value": {
+                "id": "88282fb8-5e72-41be-ab1c-0a53b00e08b9",
+                "resourcePath": "objects\\obj_projectile_coal_direct\\obj_projectile_coal_direct.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -228,6 +276,14 @@
                 "id": "1afc8b61-999f-402e-91d2-3593d0f2e5d0",
                 "resourcePath": "objects\\obj_playerCollider\\obj_playerCollider.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fd685171-b040-48e9-948a-cb8e185df1a5",
+            "Value": {
+                "id": "e78a0377-fe16-4cf6-8008-7fd3d1fa04da",
+                "resourcePath": "sprites\\spr_temp_coal\\spr_temp_coal.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
