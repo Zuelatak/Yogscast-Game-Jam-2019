@@ -6,12 +6,6 @@ if(fadeDone)
 	randomize()
 
 	mapSize = 5
-	global.mapSize = mapSize
-	firstRoom = global.workshopChoices[10]
-	firstRoom = firstRoom[? "roomFile"]
-
-	global.currentRoomX = floor(mapSize/2)
-	global.currentRoomY = mapSize
 	for(i = 0; i < mapSize; i++)
 	{
 		for(j = 0; j < mapSize; j++)
@@ -19,11 +13,12 @@ if(fadeDone)
 			global.gameMap[i, j] = 0
 		}
 	}
-	global.gameMap[global.currentRoomX, global.currentRoomY] = firstRoom
+	global.gameMap[floor(mapSize/2), mapSize] = rm_entrance
 
-	GenerateMap(global.workshopChoices, global.currentRoomX, global.currentRoomY)
+	GenerateMap(global.workshopChoices, floor(mapSize/2), mapSize)
 
 	//GenerateEnemies
 
-	room_goto(firstRoom)
+	global.freeze = true
+	room_goto(rm_entrance)
 }

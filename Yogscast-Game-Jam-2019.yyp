@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "610f508b-746a-429c-8d40-4dec4365cca2",
+            "Value": {
+                "id": "dfb97853-51f6-40db-93a9-d1b86249247f",
+                "resourcePath": "objects\\obj_fadeIn\\obj_fadeIn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "61638b12-134e-4ec5-998c-9b34cabe8a52",
             "Value": {
                 "id": "8ec9de27-ded7-40bd-9329-5ef2af593c1e",
