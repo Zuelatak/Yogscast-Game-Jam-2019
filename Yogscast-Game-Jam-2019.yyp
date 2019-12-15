@@ -58,7 +58,7 @@
             "Key": "069ba5c6-d79d-4f7d-8622-91e57127cf76",
             "Value": {
                 "id": "c01b9356-1a13-47f1-92c2-9b92984b3d01",
-                "resourcePath": "sprites\\startbuttonpressed\\startbuttonpressed.yy",
+                "resourcePath": "sprites\\spr_startButtonPressed\\spr_startButtonPressed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "0f27c0b0-0e43-406f-b70a-08e02e53ace5",
             "Value": {
                 "id": "779ddee7-4282-450c-ba7b-20220ba47961",
-                "resourcePath": "sprites\\controlpressed\\controlpressed.yy",
+                "resourcePath": "sprites\\spr_controlButtonHovered\\spr_controlButtonHovered.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "32dc819b-11b9-4e8f-922d-482875da0646",
+            "Value": {
+                "id": "af0c78a7-3696-4f78-958e-08af616187cd",
+                "resourcePath": "objects\\obj_exit\\obj_exit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3898f8a8-51b3-410b-ae23-11fa92e5f058",
             "Value": {
                 "id": "fd024f15-4c1a-48af-a6a1-773c023d81ef",
@@ -130,7 +138,7 @@
             "Key": "3d1b5ba4-e110-4b20-8fff-5729b0a31763",
             "Value": {
                 "id": "4f9ead46-829c-4cdd-b1fb-f8e67fef6cbb",
-                "resourcePath": "sprites\\Quitbuttonhover\\Quitbuttonhover.yy",
+                "resourcePath": "sprites\\spr_quitButtonHovered\\spr_quitButtonHovered.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -170,7 +178,7 @@
             "Key": "50768713-2e91-4a3c-b171-34833084c11e",
             "Value": {
                 "id": "89576282-8a05-40f5-838f-e1e21546dc21",
-                "resourcePath": "sprites\\controlhover\\controlhover.yy",
+                "resourcePath": "sprites\\spr_controlButtonPressed\\spr_controlButtonPressed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +186,7 @@
             "Key": "51ed1bec-32e2-4047-b780-a2a2e9b7bcf4",
             "Value": {
                 "id": "8f5bc46c-3407-4271-81e2-bf0b70cd5cb9",
-                "resourcePath": "sprites\\Quitbutton\\Quitbutton.yy",
+                "resourcePath": "sprites\\spr_quitButton\\spr_quitButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -231,6 +239,14 @@
             }
         },
         {
+            "Key": "70614e84-ad92-4ca4-a166-a78e9835c467",
+            "Value": {
+                "id": "a917b384-20db-4179-a7c6-acd59757cc6e",
+                "resourcePath": "rooms\\rm_controls\\rm_controls.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "1f2a8f03-d264-4cbe-934e-cb78ddd4d47c",
@@ -242,7 +258,7 @@
             "Key": "770261a3-3dc1-48b8-8be4-9afec920232e",
             "Value": {
                 "id": "fecd7f72-20a8-42cd-a8bc-943af9222481",
-                "resourcePath": "sprites\\Quitbuttonpressed\\Quitbuttonpressed.yy",
+                "resourcePath": "sprites\\spr_quitButtonPressed\\spr_quitButtonPressed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -274,8 +290,16 @@
             "Key": "8d82de60-4786-4e80-bbdc-8af94e0fe8e8",
             "Value": {
                 "id": "0af37cbb-8425-4698-bbe3-256d6444c111",
-                "resourcePath": "sprites\\startbuttonhover\\startbuttonhover.yy",
+                "resourcePath": "sprites\\spr_startButtonHover\\spr_startButtonHover.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91bb47a9-7809-4a77-ac9d-842ff17226ce",
+            "Value": {
+                "id": "8df2dd83-a40b-4935-9c78-a0db31439421",
+                "resourcePath": "objects\\obj_start\\obj_start.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -300,6 +324,14 @@
                 "id": "3835112c-396c-479f-affb-c10af78e18c7",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a062cb98-2a9b-4896-8932-0213f5e7a2a6",
+            "Value": {
+                "id": "cf1d7532-90e3-4628-bade-addf1bcb15cf",
+                "resourcePath": "rooms\\rm_livingroom\\rm_livingroom.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -335,10 +367,18 @@
             }
         },
         {
+            "Key": "ad3380e1-769a-4e3b-ad0f-557fb523c8a0",
+            "Value": {
+                "id": "5032b8dd-79d8-4c57-905c-6052468583f1",
+                "resourcePath": "objects\\exit_title\\exit_title.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b39941ed-e5d4-4259-a056-6ac94a5d8993",
             "Value": {
                 "id": "84bc540e-da9f-407f-9c57-cf5f68abbe87",
-                "resourcePath": "sprites\\control\\control.yy",
+                "resourcePath": "sprites\\spr_controlButton\\spr_controlButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -399,6 +439,14 @@
             }
         },
         {
+            "Key": "d50e17f2-d30f-47ec-8acd-2d6823fb8c00",
+            "Value": {
+                "id": "61ebc688-04ef-471b-8934-6f7e7005f952",
+                "resourcePath": "objects\\obj_controls\\obj_controls.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d6151260-75a5-4acc-a5d7-9797bc249cf2",
             "Value": {
                 "id": "5c8f6463-dac8-432d-a958-a29043491d60",
@@ -434,7 +482,7 @@
             "Key": "e1caaa65-1062-4ef1-b32b-30542e447e3d",
             "Value": {
                 "id": "23fb7e98-9360-4d67-9ddd-f154ca6eb798",
-                "resourcePath": "sprites\\startbutton\\startbutton.yy",
+                "resourcePath": "sprites\\spr_startButton\\spr_startButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -455,6 +503,14 @@
             }
         },
         {
+            "Key": "e72e957e-2faf-42fe-97af-32436ad079d2",
+            "Value": {
+                "id": "50e7818b-bc44-4dfc-b764-bab41be860c3",
+                "resourcePath": "objects\\obj_back\\obj_back.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ef6e430a-38f9-41ae-aaa5-2b5f99201173",
             "Value": {
                 "id": "1afc8b61-999f-402e-91d2-3593d0f2e5d0",
@@ -468,6 +524,14 @@
                 "id": "b542b727-1b98-496e-aa2a-d269cc0b8ca6",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f974696f-2637-42d5-a999-23ba17e971ae",
+            "Value": {
+                "id": "684e8923-47b8-4ec0-85d2-b139ce407621",
+                "resourcePath": "rooms\\rm_credits\\rm_credits.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

@@ -1,8 +1,8 @@
-roomChoices = argument0
-roomX = argument1
-roomY = argument2
+var roomChoices = argument0
+var roomX = argument1
+var roomY = argument2
 
-grabbedRoom = roomChoices[irandom(array_length_1d(roomChoices)-1)]
+var grabbedRoom = roomChoices[irandom(array_length_1d(roomChoices)-1)]
 //grabbedRoom = grabbedRoom[? "roomFile"]
 
 global.gameMap[roomX, roomY] = grabbedRoom
