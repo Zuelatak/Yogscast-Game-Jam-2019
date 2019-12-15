@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "099955ce-5ca5-4e56-9f16-2f488f5bd576",
+            "Value": {
+                "id": "32129f12-645b-4f56-8557-943d76425fe2",
+                "resourcePath": "objects\\obj_projectile_player_snowball\\obj_projectile_player_snowball.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c93310a-9c79-4121-a9d6-f1e16d1df264",
             "Value": {
                 "id": "f59c55bd-ea0f-46af-854a-1ae377ab95b0",
@@ -91,6 +99,22 @@
             "Value": {
                 "id": "67dc2459-a1e6-42f9-983b-af7bf470ea2f",
                 "resourcePath": "rooms\\rm_title\\rm_title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "13a3a99d-38a5-4aee-ac75-e0188452cfc6",
+            "Value": {
+                "id": "a57b40cc-7fdb-4544-ba9b-de01adbdd083",
+                "resourcePath": "objects\\obj_projectile_enemy_snowball_plus\\obj_projectile_enemy_snowball_plus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1c10381e-aed6-495c-9402-49bc806b5f14",
+            "Value": {
+                "id": "4b64f440-79a3-4341-8409-cb1967f0d25c",
+                "resourcePath": "rooms\\rm_twoWayLeft\\rm_twoWayLeft.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -170,7 +194,7 @@
             "Key": "3898f8a8-51b3-410b-ae23-11fa92e5f058",
             "Value": {
                 "id": "fd024f15-4c1a-48af-a6a1-773c023d81ef",
-                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourcePath": "objects\\obj_enemy_throw_direct\\obj_enemy_throw_direct.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -583,6 +607,30 @@
             }
         },
         {
+            "Key": "bcfe31d9-e1dc-49a7-8380-64ac0a43fff7",
+            "Value": {
+                "id": "fecf4d22-59de-41fc-8b5b-f436554a7501",
+                "resourcePath": "rooms\\rm_threeWayLeft\\rm_threeWayLeft.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "be599e77-dd12-4372-92ce-b07b643f1e0f",
+            "Value": {
+                "id": "e35486a5-cc78-4035-b314-ac9d43232972",
+                "resourcePath": "sprites\\spr_snowball\\spr_snowball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "beec142e-26aa-4a93-99e5-f9b5e918de27",
+            "Value": {
+                "id": "ef316aba-23ca-4e40-a7f0-3107284548e8",
+                "resourcePath": "sprites\\spr_temp_snowman\\spr_temp_snowman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bfe1aba5-1b41-433b-9844-d369094c8a15",
             "Value": {
                 "id": "3cd12306-fb39-4e67-bcae-8f37d85b43e4",
@@ -631,6 +679,30 @@
             }
         },
         {
+            "Key": "c99c985c-affb-4b51-8824-2e6b104edd05",
+            "Value": {
+                "id": "92ec1718-e712-4ef1-8a1a-a72b9ea4e581",
+                "resourcePath": "objects\\obj_enemy_melee\\obj_enemy_melee.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ca3b225f-13e6-4b7b-97e4-4cba33557579",
+            "Value": {
+                "id": "21f3c2f9-7c54-476f-809a-6a2d0c912e4a",
+                "resourcePath": "sprites\\sprite25\\sprite25.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc90fd06-19d0-421d-9722-faa15934cb6d",
+            "Value": {
+                "id": "6474da8f-4eac-414e-863f-c262a20987fd",
+                "resourcePath": "objects\\obj_enemy_throw_plus\\obj_enemy_throw_plus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "607335f1-289f-4b32-bf6d-59c742cd4979",
@@ -676,6 +748,14 @@
                 "id": "5c8f6463-dac8-432d-a958-a29043491d60",
                 "resourcePath": "sprites\\spr_reindeerBagLeft\\spr_reindeerBagLeft.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d6854f13-8c6a-4e6c-9a25-925cdf4e99d1",
+            "Value": {
+                "id": "9c74bc38-9d8e-4a06-9fc0-123c9efc9236",
+                "resourcePath": "objects\\obj_projectile_enemy_snowball_direct\\obj_projectile_enemy_snowball_direct.yy",
+                "resourceType": "GMObject"
             }
         },
         {
