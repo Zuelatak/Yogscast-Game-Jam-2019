@@ -98,7 +98,7 @@
             "Key": "315c31f7-1c83-4696-85f8-6aef5c41a719",
             "Value": {
                 "id": "7917296e-b01b-4fbf-8ff9-2ea224276ef4",
-                "resourcePath": "sprites\\spr_reindeerChargeBag\\spr_reindeerChargeBag.yy",
+                "resourcePath": "sprites\\spr_reindeerChargeBagLeft\\spr_reindeerChargeBagLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -108,6 +108,14 @@
                 "id": "fd024f15-4c1a-48af-a6a1-773c023d81ef",
                 "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3f1ec13e-ab84-49a6-9c62-fe9d2a2d1782",
+            "Value": {
+                "id": "c272aa7f-c474-439e-84e2-cb023426bf0a",
+                "resourcePath": "sprites\\spr_reindeerBagRight\\spr_reindeerBagRight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "7fdd2593-68df-43e1-97f5-0e5284ab2592",
+            "Value": {
+                "id": "53ba70e5-d4d3-4467-922c-261a04db3be1",
+                "resourcePath": "sprites\\spr_reindeerbowBagRight\\spr_reindeerbowBagRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82ef2a8f-eca8-429d-bdba-d4e5e408203d",
             "Value": {
                 "id": "ca81c1da-616c-41f2-91e3-eb594d8f6b0e",
@@ -250,7 +266,7 @@
             "Key": "a34c7b65-b87c-4bb3-bec1-7137aacc2217",
             "Value": {
                 "id": "623a5011-be34-4ddc-a728-36eaf068a44f",
-                "resourcePath": "sprites\\spr_reindeerbowBag\\spr_reindeerbowBag.yy",
+                "resourcePath": "sprites\\spr_reindeerbowBagLeft\\spr_reindeerbowBagLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -322,7 +338,7 @@
             "Key": "d6151260-75a5-4acc-a5d7-9797bc249cf2",
             "Value": {
                 "id": "5c8f6463-dac8-432d-a958-a29043491d60",
-                "resourcePath": "sprites\\spr_reindeerBag\\spr_reindeerBag.yy",
+                "resourcePath": "sprites\\spr_reindeerBagLeft\\spr_reindeerBagLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -331,6 +347,14 @@
             "Value": {
                 "id": "c66f62e6-ef09-431e-9f01-53dbedefd283",
                 "resourcePath": "sprites\\spr_reindeerCharge\\spr_reindeerCharge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dfc87b80-89d2-4cbe-a186-c4c0ad927da4",
+            "Value": {
+                "id": "cde7d1da-4093-44cd-a9a4-eb2a7cedc965",
+                "resourcePath": "sprites\\spr_reindeerChargeBagRight\\spr_reindeerChargeBagRight.yy",
                 "resourceType": "GMSprite"
             }
         },

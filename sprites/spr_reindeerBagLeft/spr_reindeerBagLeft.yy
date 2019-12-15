@@ -2,7 +2,7 @@
     "id": "d6151260-75a5-4acc-a5d7-9797bc249cf2",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_reindeerBag",
+    "name": "spr_reindeerBagLeft",
     "For3D": false,
     "HTile": false,
     "VTile": false,
